@@ -1,1 +1,0 @@
-# GloveProject-assistive
